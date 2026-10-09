@@ -1,0 +1,6 @@
+Backend/out/
+*.class
+.vscode/
+.idea/
+.DS_Store
+.env
